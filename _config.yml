@@ -1,3 +1,9 @@
 title: "Ultimate Topdown Controller 2D"
 remote_theme: just-the-docs/just-the-docs
 search_enabled: true
+aux_links:
+  "Get it in the Unity Asset Store":
+    - "https://assetstore.unity.com"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
