@@ -1,8 +1,9 @@
 --- 
 layout: default
-title: TopDown Shooter
+title: Top-down Shooter
 parent: Examples
 permalink: examples/shooter
+nav_order: 4
 ---
 
 <iframe id="" src="Shooter-Build" name="" width="960" height="540" frameborder="0" marginheight="0" scrolling="no"></iframe>
