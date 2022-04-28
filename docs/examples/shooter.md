@@ -9,7 +9,7 @@ permalink: examples/shooter
 
 > Top-down shooter example, dodge the enemy bullets while shooting at them.
 
-![]()
+![](image.webp)
 ### Controls
 **Move:** WASD, Arrow keys  
 **Shoot:** Space
