@@ -5,4 +5,4 @@ parent: Examples
 permalink: examples/space
 ---
 
-<iframe id="" src="Space/" name="" width="960" height="540" frameborder="0" marginheight="0" scrolling="no"></iframe>
+<iframe id="" src="Space-Build" name="" width="960" height="540" frameborder="0" marginheight="0" scrolling="no"></iframe>
