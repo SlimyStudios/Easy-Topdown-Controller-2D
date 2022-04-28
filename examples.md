@@ -2,6 +2,7 @@
 layout: default
 title: Examples
 has_children: true
+permalink: examples
 ---
 
 # Examples
