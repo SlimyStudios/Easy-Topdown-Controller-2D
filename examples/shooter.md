@@ -2,7 +2,7 @@
 layout: default
 title: Shooter
 parent: Examples
-permalink: examples/Shooter
+permalink: examples/shooter
 ---
 
 <iframe id="" src="Shooter" name="" width="960" height="540" frameborder="0" marginheight="0" scrolling="no"></iframe>
