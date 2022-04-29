@@ -4,22 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | Easy Topdown Controller 2D</title>
-  </head>
-  <body style="text-align: center">
-    <canvas id="unity-canvas" width=960 height=540 style="width: 960px; height: 540px; background: #231F20"></canvas>
-    <script src="Build/Space-Build.loader.js"></script>
+    <script src="Build/UnityLoader.js"></script>
     <script>
-      createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/Space-Build.data",
-        frameworkUrl: "Build/Space-Build.framework.js",
-        codeUrl: "Build/Space-Build.wasm",
-        streamingAssetsUrl: "StreamingAssets",
-        companyName: "DefaultCompany",
-        productName: "Easy Topdown Controller 2D",
-        productVersion: "0.1",
-        // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
-        // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
-      });
+      UnityLoader.instantiate("unityContainer", "Build/Space-Build.json");
     </script>
+  </head>
+  <body>
+    <div id="unityContainer" style="width: 960px; height: 540px; margin: auto"></div>
   </body>
 </html>

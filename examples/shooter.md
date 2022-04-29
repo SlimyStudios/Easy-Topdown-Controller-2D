@@ -12,7 +12,8 @@ nav_order: 4
 
 ### Controls
 **Move:** WASD, Arrow keys  
-**Shoot:** Space
+**Shoot:** Right click
+**Dodge:** Space
 
 
 ### Mechanics used
