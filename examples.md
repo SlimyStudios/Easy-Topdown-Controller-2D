@@ -7,4 +7,4 @@ permalink: examples
 
 # Examples
 Here you can check out some of the examples made with this asset.  
-Each example showcases a specific mechanic, from a classical grid-based game to a top-down shooter.  
+Each example showcases what kind of games can be made with it, from classical grid-based games to top-down shooters.  
