@@ -19,3 +19,17 @@ Shoot'em up example, avoid the asteroids and shoot to push them away.
 
 
 ### Mechanics used
+- `Shoot`
+  - One of the built-in actions.
+- `Shoot While Button Pressed:`
+  - Keep shooting if the shoot button is held down, but only if a certain amount of time has passed.
+- `Disable Animation`
+  - This example disables the Shoot animation as it's not needed.<br>
+    Instead, the Walk and Idle animations continue playing. 
+- `Shoot Direction`
+  - Specify the direction the player shoots in.<br>
+    In this case, the direction is set to be fixed, and upright.<br>
+    The possible options are:
+    - `Mouse/Joystick`
+    - `Player Facing`
+    - `Fixed`
