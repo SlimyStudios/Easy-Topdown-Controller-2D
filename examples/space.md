@@ -14,8 +14,8 @@ Shoot'em up example, avoid the asteroids and shoot to push them away.
 
 |         | Mouse/Keyboard | Controller |
 | ------: | :-------------:  | :----------: |
-|  Move   | <img src="../assets/KeyPrompts/Keyboard/W.png" width="50"> <img src="../assets/KeyPrompts/Keyboard/A.png" width="50"> <img src="../assets/KeyPrompts/Keyboard/S.png" width="50"> <img src="../assets/KeyPrompts/Keyboard/D.png" width="50"> <br> <img src="../assets/KeyPrompts/Keyboard/Arrow_Up.png" width="50"> <img src="../assets/KeyPrompts/Keyboard/Arrow_Left.png" width="50"> <img src="../assets/KeyPrompts/Keyboard/Arrow_Down.png" width="50"> <img src="../assets/KeyPrompts/Keyboard/Arrow_Right.png" width="50">| <img src="../assets/KeyPrompts/Controller/LeftStick.png" width="50"> <img src="../assets/KeyPrompts/Controller/Dpad.png" width="50">|
-| Shoot | <img src="../assets/KeyPrompts/Keyboard/Mouse_Right.png" width="50"> <img src="../assets/KeyPrompts/Keyboard/X.png" width="50"> <img src="../assets/KeyPrompts/Keyboard/J.png" width="50"> | <img src="../assets/KeyPrompts/Controller/X.png" width="50"> |
+|  Move   | <img src="../assets/KeyPrompts/Keyboard/W.png" width="40"> <img src="../assets/KeyPrompts/Keyboard/A.png" width="40"> <img src="../assets/KeyPrompts/Keyboard/S.png" width="40"> <img src="../assets/KeyPrompts/Keyboard/D.png" width="40"> <br> <img src="../assets/KeyPrompts/Keyboard/Arrow_Up.png" width="40"> <img src="../assets/KeyPrompts/Keyboard/Arrow_Left.png" width="40"> <img src="../assets/KeyPrompts/Keyboard/Arrow_Down.png" width="40"> <img src="../assets/KeyPrompts/Keyboard/Arrow_Right.png" width="40">| <img src="../assets/KeyPrompts/Controller/LeftStick.png" width="40"> <img src="../assets/KeyPrompts/Controller/Dpad.png" width="40">|
+| Shoot | <img src="../assets/KeyPrompts/Keyboard/Mouse_Right.png" width="40"> <img src="../assets/KeyPrompts/Keyboard/X.png" width="40"> <img src="../assets/KeyPrompts/Keyboard/J.png" width="40"> | <img src="../assets/KeyPrompts/Controller/X.png" width="40"> |
 
 
 ### Mechanics used
