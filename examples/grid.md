@@ -21,11 +21,10 @@ RPG Maker-like example, a grid-based game with the possibility to interact with 
 ### Mechanics used
 - `Interact`
   - One of the built-in actions.
-- `Movement Type`
+- `Movement Type: Grid`
   - Specify the type of movement the player can make.<br>
     In this case, the player can only move in a grid, like a Pokémon game.<br>
     The possible options are:
-    - `None`
-    - `Straight`
-    - `Diagonal`
-    - `All`
+    - `Normal`
+    - `Grid`
+      - In this example, diagonals are not allowed, but the option is available.

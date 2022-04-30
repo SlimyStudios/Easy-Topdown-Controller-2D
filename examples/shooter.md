@@ -24,7 +24,7 @@ Top-down shooter example, dodge the enemy bullets while shooting at them.
   - Built-in actions.
 - `Shoot While Button Pressed`
   - Keep shooting if the shoot button is held down, but only if a certain amount of time has passed.
-- `Shoot Direction`
+- `Shoot Direction: Mouse/Joystick`
   - Specify the direction the player shoots in.<br>
     In this case, the direction is set to `Mouse/Joystick`, so the player can aim their gun with the mouse/joystick.<br>
     The possible options are:
