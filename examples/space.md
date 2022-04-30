@@ -21,7 +21,7 @@ Shoot'em up example, avoid the asteroids and shoot to push them away.
 ### Mechanics used
 - `Shoot`
   - One of the built-in actions.
-- `Shoot While Button Pressed:`
+- `Shoot While Button Pressed`
   - Keep shooting if the shoot button is held down, but only if a certain amount of time has passed.
 - `Disable Animation`
   - This example disables the Shoot animation as it's not needed.<br>
