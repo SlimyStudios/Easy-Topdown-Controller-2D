@@ -14,7 +14,7 @@ Shoot'em up example, avoid the asteroids and shoot at them to push them away.
 
 | Action | Mouse/Keyboard | Controller |
 | ------ | ------------- | ---------- |
-| Move | WASD, Arrow keys | Left stick, D-Pad |
+| Move | <img src="/assets/KeyPrompts/W.png" width="50" height="50"> ![](/assets/KeyPrompts/Keyboard%20&%20Mouse/A.png) ![](/assets/KeyPrompts/Keyboard%20&%20Mouse/S.png) ![](/assets/KeyPrompts/Keyboard%20&%20Mouse/D.png)| Left stick, D-Pad |
 | Shoot | Right click, X, J | X |
 
 #### Mouse/Keyboard
