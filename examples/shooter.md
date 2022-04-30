@@ -8,7 +8,7 @@ nav_order: 4
 
 <iframe id="" src="Shooter-Build" name="" width="960" height="540" frameborder="0" marginheight="0" scrolling="no"></iframe>
 
-> Top-down shooter example, dodge the enemy bullets while shooting at them.
+Top-down shooter example, dodge the enemy bullets while shooting at them.
 
 ### Controls
 **Move:** WASD, Arrow keys  
