@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Quick start guide
-has_children: true
 permalink: quickstart
 nav_order: 3
 ---
