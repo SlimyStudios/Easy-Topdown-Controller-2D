@@ -3,6 +3,7 @@ layout: default
 title: Examples
 has_children: true
 permalink: examples
+nav_order: 2
 ---
 
 # Examples
