@@ -3,7 +3,7 @@ remote_theme: just-the-docs/just-the-docs
 search_enabled: true
 aux_links:
   "Contact":
-   - "contact.md"
+   - "contact"
   "Buy on the Asset Store":
     - "https://assetstore.unity.com/packages/slug/220713"
 

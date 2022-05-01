@@ -2,7 +2,7 @@
 layout: default
 title: Quick start guide
 has_children: true
-permalink: examples
+permalink: quickstart
 nav_order: 3
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 has_children: true
-permalink: examples
+permalink: contact
 nav_order: 6
 ---
 

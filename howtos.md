@@ -2,7 +2,7 @@
 layout: default
 title: How-To's
 has_children: true
-permalink: api
+permalink: howtos
 nav_order: 4
 ---
 
