@@ -30,7 +30,7 @@ The size of the grid, can be of arbitrary size.
 Default value: `(1, 1)`
 
 ### [[Movement Type: Grid]](#movement-type) Collides With
-The layers that the player can collide with.
+The layers that the player can collide with.  
 Default value: `Default`
 
 ### Allow Diagonals
@@ -42,14 +42,14 @@ How fast the player moves.
 Default value: `5` 
 
 ### Shooter Rotation
-If the player will rotate to face the mouse cursor or the right stick of a controller instead of looking to the movement direction.
+If the player will rotate to face the mouse cursor or the right stick of a controller instead of looking to the movement direction.  
 Default value: `false`
 
 
 ## Interact
 
 ### Can Interact
-If the player can interact with other objects.
+If the player can interact with other objects.  
 Default value: `false`
 
 ### [[Interact]](#can-interact) Disable Animation
@@ -94,6 +94,7 @@ The direction where the player will attack.
 - **Mouse/Joystick**: The player attacks in the direction of the mouse cursor or the right stick of a controller, best used in conjunction with the `Shooter Rotation` parameter.
 - **Facing**: The player attacks in the direction it's facing.
 - **Fixed**: The player attacks in a fixed direction.
+Default value: `Facing`
 
 ### [[Attack, Attack Direction: Fixed]](#can-attack) Direction
 The direction where the player will attack when Attack Direction = Fixed.  
@@ -126,12 +127,14 @@ Default value: `true`
 
 ### [[Shoot While Button Held]](#shoot-while-button-held) Shoot Cooldown
 The cooldown between each shot.
+Default value: `0.25`
 
 ### [[Shoot]](#shoot-shoot-while-button-held) Shoot Direction
 The direction where the player will shoot.  
 - **Mouse/Joystick**: The player shoots in the direction of the mouse cursor or the right stick of a controller, best used in conjunction with the `Shooter Rotation` parameter.
 - **Facing**: The player shoots in the direction it's facing.
 - **Fixed**: The player shoots in a fixed direction.
+Default value: `Mouse/Joystick`
 
 ### [[Shoot, Shoot Direction: Fixed]](#can-shoot) Direction
 The direction where the player will shoot when Shoot Direction = Fixed.  
@@ -157,7 +160,7 @@ If the player should rotate to face the movement direction when rolling.
 Only active if Shooter Rotation is enabled.  
 Default value: `true`  
 
-### [\[Roll](#can-roll)[, Attack](#can-attack)[ or Shoot\]](#can-shoot) Roll Interrupts Attack
+### [\[Roll](#can-roll)[and (Attack](#can-attack)[ or Shoot)\]](#can-shoot) Roll Interrupts Attack
 If rolls should interrupt attack and shoot animations.  
 Default value: `true`  
 
