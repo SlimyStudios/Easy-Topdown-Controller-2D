@@ -15,7 +15,7 @@ This will generate a new Scriptable Object with the default values.
 
 Select it to see all the parameters in the inspector.
 
-`In the documentation below, when a parameter is defined as [Other Param] Parameter, it will be only available if "Other Param" is enabled.`
+In the documentation below, when a parameter is defined as "`[Other Param]` Parameter", it will be only available if `Other Param` is enabled.
 
 ## Movement Parameters
 ### Movement Type
