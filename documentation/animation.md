@@ -22,21 +22,21 @@ Time it takes for the animation to play, in seconds.
 Default value: `1`
 
 ## Right
-The animation that will be played when the player is facing right.
-To assign new sprites to the animation, go to the Project view and drag and drop the corresponding sprites (click the lock icon on the inspector to be able to select the sprites correctly).
+The animation that will be played when the player is facing right.  
+To assign new sprites to the animation, go to the Project view and drag and drop the corresponding sprites (click the lock icon on the inspector to be able to select the sprites correctly).  
 **IMPORTANT: If no sprites are present, the animation will not be used, and instead will show a white square**.
 
 ## Left
-The animation that will be played when the player is facing left.
-To assign new sprites to the animation, go to the Project view and drag and drop the corresponding sprites (click the lock icon on the inspector to be able to select the sprites correctly).
+The animation that will be played when the player is facing left.  
+To assign new sprites to the animation, go to the Project view and drag and drop the corresponding sprites (click the lock icon on the inspector to be able to select the sprites correctly).  
 **IMPORTANT: If no sprites are present, the animation will not be used, and instead will show a white square**.
 
 ## Up
-The animation that will be played when the player is facing up.
-To assign new sprites to the animation, go to the Project view and drag and drop the corresponding sprites (click the lock icon on the inspector to be able to select the sprites correctly).
+The animation that will be played when the player is facing up.  
+To assign new sprites to the animation, go to the Project view and drag and drop the corresponding sprites (click the lock icon on the inspector to be able to select the sprites correctly).  
 **IMPORTANT: If no sprites are present, the animation will not be used, and instead will show a white square**.
 
 ## Down
-The animation that will be played when the player is facing down.
-To assign new sprites to the animation, go to the Project view and drag and drop the corresponding sprites (click the lock icon on the inspector to be able to select the sprites correctly).
+The animation that will be played when the player is facing down.  
+To assign new sprites to the animation, go to the Project view and drag and drop the corresponding sprites (click the lock icon on the inspector to be able to select the sprites correctly).  
 **IMPORTANT: If no sprites are present, the animation will not be used, and instead will show a white square**.
