@@ -7,9 +7,8 @@ nav_order: 1
 # Easy Top-down Controller 2D
 Want to create a new top-down project and don't know where to start?  
 Find yourself having to write a lot of boilerplate code just to have a square moving in the screen?  
-I've been in this situation too, so I've created this tool to help you!  
 
-**Easy Top-Down Controller 2D does all the work for you, so you can focus on the game itself.**
+**Easy Top-Down Controller 2D does all the hard work for you, so you can focus on the game itself!**
 
 The asset has been coded to ensure **near-zero runtime GC**, making the **impact on your game's performance negligible**.
 
